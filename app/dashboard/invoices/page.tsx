@@ -1,0 +1,1 @@
+export default () => <h1>Invoices</h1>;

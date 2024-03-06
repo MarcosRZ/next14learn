@@ -1,1 +1,3 @@
-export default () => <h1>Invoices</h1>;
+const Invoices = () => <h1>Invoices</h1>;
+
+export default Invoices;
